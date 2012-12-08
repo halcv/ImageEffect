@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">画像エフェクト</string>
+  <string name="backButton_text">＜＜＜</string>
+  <string name="nextButton_text">＞＞＞</string>
+  <string name="updateListButton_text">リスト更新</string>
+  <string name="effectButton_text">エフェクト</string>
+  <string-array name="filter">
+    <item>元画像</item>
+    <item>白黒</item>
+    <item>セピア</item>
+    <item>ネガポジ反転</item>
+    <item>鉛筆書き</item>
+    <item>二値化</item>
+    <item>色鉛筆</item>
+    <item>水彩画風</item>
+    <item>水墨画風</item>
+    <item>エンボス</item>
+    <item>油絵風</item>
+    <item>漫画風</item>
+    <item>白黒油絵風</item>
+    <item>金板画</item>
+    <item>波効果</item>
+    <item>レンズ効果</item>
+  </string-array>
+
+</resources>
